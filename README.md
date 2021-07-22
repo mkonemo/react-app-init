@@ -1,2 +1,2 @@
-# react-app-init
+# react-codesandbox
 Created with CodeSandbox
